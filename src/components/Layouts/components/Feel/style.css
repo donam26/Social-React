@@ -1,0 +1,27 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .delete-button {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .image-container:hover .delete-button {
+    display: block;
+  }
+  
+  #like {
+    fill: #fb0909
+  }
+  #like {
+    color: #fb0909
+  }

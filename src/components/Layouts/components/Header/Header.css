@@ -1,0 +1,16 @@
+.wrapper { 
+    height: 60px;
+    display: flex;
+}
+    .notification::-webkit-scrollbar {
+      width: 8px;
+    }
+    .notification::-webkit-scrollbar-thumb {
+      background-color: #999999;
+      border-radius: 4px;
+    }
+    .notification::-webkit-scrollbar-track {
+      background-color: #f0f0f0;
+      border-radius: 4px;
+    }
+    
