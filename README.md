@@ -1,4 +1,4 @@
-## **About Laravel**
+## Social Network & Chat Application
 
 Overview
 This project is a full-featured social networking website and chat application that provides functionalities similar to Facebook. The application allows users to create profiles, connect with friends, join groups, and engage in real-time chat. The platform is designed to facilitate communication and collaboration within a user-friendly interface.
